@@ -15,7 +15,7 @@ UAP do not use conventional 3D propulsion. They achieve **resonant phase-locking
 - High-resolution figures (E₈ → Φ-Matrix Energy Cascade)
 - **Live Replit App** demonstrating real-time Grid Torque monitoring, Schumann resonance calendar, and seismic venting events
 
-**Live Application:** [Paste your Replit link here]
+**Live Application:** https://fd3ca054-d2be-4320-a650-49ce56792b6d-00-3p8eapubt5njt.picard.replit.dev/
 
 **Key Features of the Live App**
 - Real-time orbital angle monitoring against 72°/144° gates
